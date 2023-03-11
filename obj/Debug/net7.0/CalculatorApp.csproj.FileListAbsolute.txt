@@ -1,0 +1,15 @@
+C:\Users\eujosh\Downloads\Everything C#\CalculatorApp\bin\Debug\net7.0\CalculatorApp.exe
+C:\Users\eujosh\Downloads\Everything C#\CalculatorApp\bin\Debug\net7.0\CalculatorApp.deps.json
+C:\Users\eujosh\Downloads\Everything C#\CalculatorApp\bin\Debug\net7.0\CalculatorApp.runtimeconfig.json
+C:\Users\eujosh\Downloads\Everything C#\CalculatorApp\bin\Debug\net7.0\CalculatorApp.dll
+C:\Users\eujosh\Downloads\Everything C#\CalculatorApp\bin\Debug\net7.0\CalculatorApp.pdb
+C:\Users\eujosh\Downloads\Everything C#\CalculatorApp\obj\Debug\net7.0\CalculatorApp.csproj.AssemblyReference.cache
+C:\Users\eujosh\Downloads\Everything C#\CalculatorApp\obj\Debug\net7.0\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eujosh\Downloads\Everything C#\CalculatorApp\obj\Debug\net7.0\CalculatorApp.AssemblyInfoInputs.cache
+C:\Users\eujosh\Downloads\Everything C#\CalculatorApp\obj\Debug\net7.0\CalculatorApp.AssemblyInfo.cs
+C:\Users\eujosh\Downloads\Everything C#\CalculatorApp\obj\Debug\net7.0\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\eujosh\Downloads\Everything C#\CalculatorApp\obj\Debug\net7.0\CalculatorApp.dll
+C:\Users\eujosh\Downloads\Everything C#\CalculatorApp\obj\Debug\net7.0\refint\CalculatorApp.dll
+C:\Users\eujosh\Downloads\Everything C#\CalculatorApp\obj\Debug\net7.0\CalculatorApp.pdb
+C:\Users\eujosh\Downloads\Everything C#\CalculatorApp\obj\Debug\net7.0\CalculatorApp.genruntimeconfig.cache
+C:\Users\eujosh\Downloads\Everything C#\CalculatorApp\obj\Debug\net7.0\ref\CalculatorApp.dll
